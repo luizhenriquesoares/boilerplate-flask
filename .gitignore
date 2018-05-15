@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+env
+venv
+/_updated
+error.log
